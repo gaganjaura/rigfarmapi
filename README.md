@@ -1,2 +1,3 @@
-# rigfarmapi
-This is the API created in sailsjs for rigfarm
+# SailsProject
+
+a [Sails](http://sailsjs.org) application
